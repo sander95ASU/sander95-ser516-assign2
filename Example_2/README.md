@@ -184,7 +184,7 @@ git add .
 git commit -m "Trigger pipeline"
 git push
 ```
-
+small change
 Within a minute, Jenkins will detect the change and run the pipeline automatically.
 
 ## Step 7 — View Test Results
